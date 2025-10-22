@@ -1,6 +1,6 @@
 # X-Mssdk-Info Solution
 
-Multilingual README for the X-Mssdk-Info solution: X-Mssdk-Info, guard, strData, x_bogus, x_gnarly.
+solution Tiktok X-Mssdk-Info, guard, strData, x_bogus, x_gnarly.
 
 ---
 <img width="779" height="752" alt="image" src="https://github.com/user-attachments/assets/945aafdb-6d1b-4f3f-9572-f9510667adea" />
@@ -75,5 +75,6 @@ Telegram: @Quan305
 
 ### Контакт
 Telegram: @Quan305
+
 
 
