@@ -1,4 +1,4 @@
-# X-Mssdk-Info Solution
+# X-Mssdk-Info guard, strData, x_bogus, x_gnarly TikTok Solution
 
 solution Tiktok X-Mssdk-Info, guard, strData, x_bogus, x_gnarly.
 
@@ -75,6 +75,7 @@ Telegram: @Quan305
 
 ### Контакт
 Telegram: @Quan305
+
 
 
 
