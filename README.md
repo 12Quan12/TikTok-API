@@ -3,6 +3,7 @@
 Multilingual README for the X-Mssdk-Info solution: X-Mssdk-Info, guard, strData, x_bogus, x_gnarly.
 
 ---
+<img width="568" height="414" alt="image" src="https://github.com/user-attachments/assets/ccac72b1-0e0b-49cc-8fd7-8e5351ac0098" />
 
 ## English
 
@@ -73,3 +74,4 @@ Telegram: @Quan305
 
 ### Контакт
 Telegram: @Quan305
+
